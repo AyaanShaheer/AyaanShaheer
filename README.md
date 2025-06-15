@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on: Enhancing AI projects like a YOLOv8 object detection system (85% accuracy) and a Flask task manager with Docker.<br><br>👯 Collaborate on: AI/ML projects.<br><br>🤝 Need help with: Optimizing large-scale model deployments on AWS.<br><br>🌱 Learning: Generative AI and hallucination-free LLMs for reliable applications.<br><br>💬 Ask about: My fraud detection model (92% precision) or sentiment analysis tool with n8n.<br><br>⚡ Fun fact: I built an AI system to assist visually impaired users!
+🔭 Working on: Enhancing AI projects like a YOLOv11 object detection system (85% accuracy) and a Flask task manager with Docker.<br><br>👯 Collaborate on: AI/ML projects.<br><br>🤝 Need help with: Optimizing large-scale model deployments on AWS.<br><br>🌱 Learning: Generative AI and hallucination-free LLMs for reliable applications.<br><br>💬 Ask about: My fraud detection model (92% precision) or sentiment analysis tool with n8n.<br><br>⚡ Fun fact: I built an AI system to assist visually impaired users!
 
 
 ## 🌐 Socials:
