@@ -9,7 +9,7 @@
 <br>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ayaan-shaheer&label=Profile%20views&color=0e75b6&style=plastic" height=25px/>
+  <img src="https://komarev.com/ghpvc/?username=AyaanShaheer&label=Profile%20views&color=0e75b6&style=plastic" height=25px/>
 </p>
 
 ---
@@ -104,15 +104,15 @@
 <details>
 <summary><h3>🔥 Contribution Streak</h3></summary>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaan-shaheer&theme=tokyonight_duo"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyaanShaheer&theme=tokyonight_duo"/>
 </p>
 </details>
 
 <details>
 <summary><h3>📈 GitHub Overview</h3></summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayaan-shaheer&show_icons=true&theme=tokyonight" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan-shaheer&layout=compact&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AyaanShaheer&show_icons=true&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanShaheer&layout=compact&theme=tokyonight" height="200"/>
 </p>
 </details>
 
