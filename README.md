@@ -105,7 +105,7 @@
   <a href="mailto:ayan.shaheer.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/ayaan-shaheer-74a087230">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/AyaanShaheer">
