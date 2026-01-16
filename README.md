@@ -83,11 +83,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AyaanShaheer&theme=tokyonight_duo&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/demo/?theme=tokyonight_duo&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyaanShaheer&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanShaheer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 ---
 
 ## 🤝 Connect With Me
