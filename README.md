@@ -83,16 +83,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AyaanShaheer&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=AyaanShaheer&theme=tokyonight_duo&hide_border=true)
 
-<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyaanShaheer&show_icons=true&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyaanShaheer&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanShaheer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanShaheer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 ---
 
 ## 🤝 Connect With Me
