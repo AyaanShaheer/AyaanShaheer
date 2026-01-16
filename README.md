@@ -25,7 +25,7 @@
 - 📊 Obsessed with **observability, reliability & cost**
 - 🐧 Linux-first engineer
 
-> _I don’t build demos. I build systems that survive production._
+> _I don't build demos. I build systems that survive production._
 
 ---
 
@@ -83,18 +83,20 @@
 
 ## 📊 GitHub Stats
 
-<details>
-<summary><h3>🔥 Contribution Streak</h3></summary>
+<details open>
+<summary><b>🔥 Contribution Streak</b></summary>
+<br>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AyaanShaheer&theme=tokyonight_duo&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=AyaanShaheer&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak"/>
 </p>
 </details>
 
-<details>
-<summary><h3>📈 GitHub Overview</h3></summary>
+<details open>
+<summary><b>📈 GitHub Overview</b></summary>
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyaanShaheer&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanShaheer&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AyaanShaheer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanShaheer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 </p>
 </details>
 
@@ -119,11 +121,11 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AyaanShaheer/AyaanShaheer/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AyaanShaheer/AyaanShaheer/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
 <p align="center">
-  <i>“Anyone can build a model. Very few can build a system.”</i>
+  <i>"Anyone can build a model. Very few can build a system."</i>
 </p>
