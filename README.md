@@ -83,11 +83,20 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/demo/?theme=tokyonight_duo&hide_border=true)
+<p align="left">
+  <img src="https://img.shields.io/badge/Commits-1,234-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars-152-yellow?style=for-the-badge&logo=star&logoColor=white" />
+  <img src="https://img.shields.io/badge/Forks-45-orange?style=for-the-badge&logo=git-fork&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRs-87-green?style=for-the-badge&logo=github-pull-requests&logoColor=white" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
+**Top Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-65%25-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Terraform-10%25-7B42BC?style=flat&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-5%25-2496ED?style=flat&logo=docker&logoColor=white" />
+</p>
 ---
 
 ## 🤝 Connect With Me
