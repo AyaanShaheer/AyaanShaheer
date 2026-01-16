@@ -83,24 +83,16 @@
 
 ## 📊 GitHub Stats
 
-<details>
-<summary><b>🔥 Contribution Streak</b></summary>
-<br>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AyaanShaheer&amp;theme=tokyonight_duo&amp;hide_border=true" alt="GitHub Streak" />
-</p>
-</details>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AyaanShaheer&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<details>
-<summary><b>📈 GitHub Overview</b></summary>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyaanShaheer&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanShaheer&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top Languages" />
-</p>
-</details>
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyaanShaheer&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanShaheer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 ---
 
 ## 🤝 Connect With Me
