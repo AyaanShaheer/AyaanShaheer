@@ -1,27 +1,147 @@
-# 💫 About Me:
-🔭 Working on: Enhancing AI projects like a YOLOv11 object detection system (85% accuracy) and a Flask task manager with Docker.<br><br>👯 Collaborate on: AI/ML projects.<br><br>🤝 Need help with: Optimizing large-scale model deployments on AWS.<br><br>🌱 Learning: Generative AI and hallucination-free LLMs for reliable applications.<br><br>💬 Ask about: My fraud detection model (92% precision) or sentiment analysis tool with n8n.<br><br>⚡ Fun fact: I built an AI system to assist visually impaired users!
+<h1 align="center">Hi, I'm Ayaan Shaheer 👋</h1>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300E5FF&size=26&center=true&vCenter=true&width=800&height=100&lines=MLOps+%26+GenAI+Platform+Engineer;Production-Grade+AI+Systems;LLMs+%7C+RAG+%7C+Agentic+AI;Kubernetes+%7C+Cloud+%7C+CI%2FCD;I+build+AI+that+actually+runs+in+production" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayaan_.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayaan-shaheer-74a087230) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gfever252@gmail.com ) 
+<br>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AyaanShaheer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AyaanShaheer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanShaheer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AyaanShaheer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AyaanShaheer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ayaan-shaheer&label=Profile%20views&color=0e75b6&style=plastic" height=25px/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AyaanShaheer&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <picture><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="50px"></picture> About Me
+
+<picture>
+  <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250px">
+</picture>
+
+<br><br>
+
+- 🧠 **MLOps & GenAI Platform Engineer** focused on *production-first AI*
+- ☸️ Kubernetes-native deployments on **AWS & Azure**
+- 🔁 End-to-end ML pipelines: data → training → deployment → monitoring
+- 🤖 LLM systems: **RAG, Agentic AI, multi-agent architectures**
+- 📊 Obsessed with **observability, reliability & cost-awareness**
+- 🐧 Linux-first engineer
+- 🚀 I turn AI ideas into **scalable infrastructure**
+
+> I don’t build demos. I build **systems that survive production**.
+
+<br>
+
+---
+
+## 🧠 Flagship AI Systems
+
+### 🚀 Zero-Cost Local RAG Platform (Production-Grade)
+- Llama 3 (Ollama) + ChromaDB + FastAPI
+- Fully containerized & deployed on Kubernetes
+- Sub-second semantic search latency
+- Prometheus + Grafana observability
+- **No paid LLM APIs**
+
+### 🏢 Autonomous Enterprise Decision Intelligence Platform
+- Multi-agent system (Planner, Researcher, Analyst, Decision Maker)
+- AKS-based cloud deployment
+- PostgreSQL + FAISS + deterministic scoring
+- Explainable, confidence-scored AI decisions
+
+---
+
+## 🛠️ Tech Stack I Trust in Production
+
+### 🧑‍💻 Programming & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black"/>
+</p>
+
+### 🤖 AI / ML
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=plastic"/>
+  <img src="https://img.shields.io/badge/LLMs-purple?style=plastic"/>
+  <img src="https://img.shields.io/badge/RAG-orange?style=plastic"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-red?style=plastic"/>
+</p>
+
+### ☸️ MLOps & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=plastic"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & Infra
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=plastic&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white"/>
+</p>
+
+### 📊 Databases & Vector Stores
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-black?style=plastic"/>
+  <img src="https://img.shields.io/badge/ChromaDB-purple?style=plastic"/>
+  <img src="https://img.shields.io/badge/Qdrant-red?style=plastic"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<details>
+<summary><h3>🔥 Contribution Streak</h3></summary>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaan-shaheer&theme=tokyonight_duo"/>
+</p>
+</details>
+
+<details>
+<summary><h3>📈 GitHub Overview</h3></summary>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayaan-shaheer&show_icons=true&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan-shaheer&layout=compact&theme=tokyonight" height="200"/>
+</p>
+</details>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:ayan.shaheer.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ayaan-shaheer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Anyone can build a model. Very few can build a system.”</i>
+</p>
