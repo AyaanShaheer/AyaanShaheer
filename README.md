@@ -86,19 +86,19 @@
 <details>
 <summary><b>🔥 Contribution Streak</b></summary>
 <br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AyaanShaheer&theme=tokyonight_duo&hide_border=true)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AyaanShaheer&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" />
+</p>
 </details>
 
 <details>
 <summary><b>📈 GitHub Overview</b></summary>
 <br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyaanShaheer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanShaheer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyaanShaheer&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanShaheer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 </details>
 
 ---
@@ -121,7 +121,9 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/AyaanShaheer/AyaanShaheer/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AyaanShaheer/AyaanShaheer/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 ---
 
