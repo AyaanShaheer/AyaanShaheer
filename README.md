@@ -80,25 +80,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Commits-1,234-blue?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stars-152-yellow?style=for-the-badge&logo=star&logoColor=white" />
-  <img src="https://img.shields.io/badge/Forks-45-orange?style=for-the-badge&logo=git-fork&logoColor=white" />
-  <img src="https://img.shields.io/badge/PRs-87-green?style=for-the-badge&logo=github-pull-requests&logoColor=white" />
-</p>
-
-**Top Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-65%25-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Terraform-10%25-7B42BC?style=flat&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-5%25-2496ED?style=flat&logo=docker&logoColor=white" />
-</p>
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -117,7 +98,7 @@
 
 ---
 
-## Github Status
+##📊 Github Status
 [![GitHub Streak](https://streak-stats.demolab.com?user=AyaanShaheer&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
