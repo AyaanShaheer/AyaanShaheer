@@ -115,6 +115,13 @@
 
 ---
 
+---
+
+## Github Status
+[![GitHub Streak](https://streak-stats.demolab.com?user=AyaanShaheer&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
